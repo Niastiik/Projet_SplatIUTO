@@ -1,4 +1,4 @@
-# Projet_SplatIUTO
+# Projet SplatIUTO
 Un projet universitaire visant à créer une IA qui joue à un jeu avec des choix programmés selon les situations.
 
 Nous avions un projet de base qui ne se trouve pas dans ce dépôt car il ne nous appartient pas.
